@@ -1,0 +1,14 @@
+C:\Users\garne\source\repos\Project - Tarot Card Game\bin\Debug\net6.0\Project - Tarot Card Game.exe
+C:\Users\garne\source\repos\Project - Tarot Card Game\bin\Debug\net6.0\Project - Tarot Card Game.deps.json
+C:\Users\garne\source\repos\Project - Tarot Card Game\bin\Debug\net6.0\Project - Tarot Card Game.runtimeconfig.json
+C:\Users\garne\source\repos\Project - Tarot Card Game\bin\Debug\net6.0\Project - Tarot Card Game.dll
+C:\Users\garne\source\repos\Project - Tarot Card Game\bin\Debug\net6.0\ref\Project - Tarot Card Game.dll
+C:\Users\garne\source\repos\Project - Tarot Card Game\bin\Debug\net6.0\Project - Tarot Card Game.pdb
+C:\Users\garne\source\repos\Project - Tarot Card Game\obj\Debug\net6.0\Project - Tarot Card Game.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\garne\source\repos\Project - Tarot Card Game\obj\Debug\net6.0\Project - Tarot Card Game.AssemblyInfoInputs.cache
+C:\Users\garne\source\repos\Project - Tarot Card Game\obj\Debug\net6.0\Project - Tarot Card Game.AssemblyInfo.cs
+C:\Users\garne\source\repos\Project - Tarot Card Game\obj\Debug\net6.0\Project - Tarot Card Game.csproj.CoreCompileInputs.cache
+C:\Users\garne\source\repos\Project - Tarot Card Game\obj\Debug\net6.0\Project - Tarot Card Game.dll
+C:\Users\garne\source\repos\Project - Tarot Card Game\obj\Debug\net6.0\ref\Project - Tarot Card Game.dll
+C:\Users\garne\source\repos\Project - Tarot Card Game\obj\Debug\net6.0\Project - Tarot Card Game.pdb
+C:\Users\garne\source\repos\Project - Tarot Card Game\obj\Debug\net6.0\Project - Tarot Card Game.genruntimeconfig.cache
